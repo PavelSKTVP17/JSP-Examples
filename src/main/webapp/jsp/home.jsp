@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Title</title>
+        <title>Title home</title>
     </head>
     <body>
         <span style="color:${cookie.color.value}">Hello</span>

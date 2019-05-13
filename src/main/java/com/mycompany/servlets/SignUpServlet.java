@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-@WebServlet("/signUp")
+@WebServlet({"/signUp",""})
 public class SignUpServlet extends HttpServlet
 {
     private UsersRepository usrsRepry;
